@@ -1,0 +1,28 @@
+{
+  "name": "@easychessanimations/tinyutils",
+  "version": "1.0.1",
+  "description": "Package tinyutils.",
+  "main": "./lib/tinyutils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "tinyutils": "./lib/tinyutils.js"
+  },
+  "keywords": [
+    "tinyutils"
+  ],
+  "author": "easychessanimations",
+  "license": "MIT",
+  "homepage": "https://github.com/easychessanimations/tinyutils",
+  "bugs": {
+    "url": "https://github.com/easychessanimations/tinyutils/issues",
+    "email": "chessbotroulette@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/easychessanimations/tinyutils.git"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
